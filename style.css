@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 0;
+    align-items: center;
+}
+h6{
+    
+    font-size: 20px;
+    font-family: "Rubik",sans-serif;
+ font-weight: 900;
+    margin: 0;
+    padding: 0;
+    margin-top: 20;
+    margin-left: 5px;
+    margin-bottom: 10px;
+
+}
+
+
+.cards{
+   float: left ;
+   margin-top: 17%;
+   margin-left: 150px;
+    
+    padding: 15px;
+    border-radius: 10px;
+background: white;
+box-shadow:  5px 5px 3px #bebebe,
+             -5px -5px 3px #ffffff;
+    
+    height: 320px;
+    width: 350px;
+}
+img{
+    display: inline;
+    border-radius: 5px;
+}
+
+#p0{
+    font-family: "Rubik",sans-serif;
+ font-weight: 900;
+    margin-left: 15px;
+    color:rgb(102 116 204);
+    display: inline;
+}
+#p1{
+    font-family: "Rubik",sans-serif;
+ font-weight: 900;
+    display: inline;
+    margin-top: 10px;
+    margin-left: 15px;
+   color: rgb(119 124 133);
+   text-decoration: line-through;
+}
+#p2{
+    font-family: "Rubik",sans-serif;
+ font-weight: 900;
+    padding: 5px;
+    border-radius: 5px;
+    display: inline;
+    margin-top: 10px;
+    margin-left: 15px;
+    color: white;
+    background-color: rgb(29 209 161);
+}
